@@ -1,0 +1,30 @@
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+.section {
+	background-color: #fafafa;
+	font-family: arial, helvetica, sans-serif;
+	text-align: center;
+
+	max-width: 980px;
+	min-height: 600px;
+
+	margin: 0 auto;
+}
+
+.title {
+	border-bottom: 1px solid #999;
+	color: #333;
+
+	margin: 0 20px;
+	padding: 8px;
+}
+
+.paragraph {
+	margin: 20px;
+
+	line-height: 1.5;
+	text-align: left;
+}

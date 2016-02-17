@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"je",
+				"jewel"
+			],
+			[
+				"jeweld",
+				"jewelDirection"
+			],
+			[
+				"_check",
+				"_checkJewelDirection"
+			],
+			[
+				"_checkJe",
+				"_checkJewelDirection"
+			],
+			[
+				"selecte",
+				"selectedPosition"
+			],
+			[
+				"_swit",
+				"_switchData"
+			],
+			[
+				"sq",
+				"squareData"
+			],
+			[
+				"curre",
+				"currentY"
+			],
+			[
+				"current",
+				"currentX"
+			],
+			[
+				"curr",
+				"currentY"
+			],
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"the_p",
+				"get_the_permalink"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"he",
+				"height	Style CSS"
+			],
+			[
+				"getEleme",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"sty",
+				"style	Style CSS"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"geteleme",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"vote",
+				"vote_value"
+			],
+			[
+				"click",
+				"click	Event"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"cate",
+				"categories"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/js/app.jsx",
+			"settings":
+			{
+				"buffer_size": 6747,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work/related_selects/index.html",
+			"settings":
+			{
+				"buffer_size": 8473,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/canvas/game-grid.jsx",
+			"settings":
+			{
+				"buffer_size": 1500,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/canvas/game-canvas.jsx",
+			"settings":
+			{
+				"buffer_size": 1710,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/levels/level.1.jsx",
+			"settings":
+			{
+				"buffer_size": 5992,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"enable lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 659.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/work/jewels",
+		"/D/work/jewels/build",
+		"/D/work/jewels/src",
+		"/D/work/jewels/src/js",
+		"/D/work/jewels/src/js/canvas"
+	],
+	"file_history":
+	[
+		"/C/Users/Sebi/Desktop/underscore-test.html",
+		"/D/work/jewels/src/js/setup/colors.jsx",
+		"/D/work/jewels/src/js/canvas/game-canvas.jsx",
+		"/D/work/jewels/src/js/levels/level.1.jsx",
+		"/D/work/jewels/.eslintrc",
+		"/D/work/jewels/src/js/app.jsx",
+		"/D/work/jewels/src/index.jsx",
+		"/D/work/jewels/webpack.config.js",
+		"/D/work/jewels/jewels.sublime-project",
+		"/D/work/jewels/.gitignore",
+		"/D/work/jewels/package.json",
+		"/D/work/jewels/node_modules/eslint-plugin-react/CHANGELOG.md",
+		"/D/work/jewels/node_modules/eslint-plugin-react/README.md",
+		"/C/Users/Sebi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Sebi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/work/jewels/build/index.html",
+		"/D/work/jewels/src/index.js",
+		"/D/work/jewels/.sublimelinterrc",
+		"/C/Users/Sebi/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/work/jewels/src/package.json",
+		"/C/Users/Sebi/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/.sublimelinterrc",
+		"/C/Users/Sebi/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/work/related_selects/.git/config",
+		"/C/Users/Sebi/AppData/Local/Temp/fz3temp-1/booking.php",
+		"/C/Users/Sebi/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/D/www/spovedanii/app/index.html",
+		"/D/work/angular/videos/download.py",
+		"/D/tuts/download.py",
+		"/D/www/laura/www/wp-content/themes/laura/footer.php",
+		"/D/www/laura/www/wp-content/themes/laura/style.css",
+		"/D/www/laura/www/wp-content/themes/laura/pages/homepage.php",
+		"/D/www/laura/www/wp-content/themes/laura/single.php",
+		"/D/work/angular/videos/download.ph",
+		"/D/presentation/build/index.html",
+		"/D/work/pixi/build/index.html",
+		"/D/presentation/package.json",
+		"/D/work/pixi/pixi.sublime-project",
+		"/D/work/pixi/src/index.js",
+		"/D/work/ghost-tiles/js/ghost-cards.ob.js",
+		"/D/work/ghost-tiles/docs/index.html",
+		"/D/work/ghost-tiles/index.html",
+		"/D/work/pixi/package.json",
+		"/D/work/pixi/.gitignore",
+		"/D/presentation/src/js/name-form.js",
+		"/D/presentation/src/js/hello-message.js",
+		"/D/presentation/src/js/main.js",
+		"/D/presentation/src/js/formular.js",
+		"/F/Fairlight/fairlight.nfo",
+		"/C/Users/Sebi/Desktop/exp_freeform_form_entries_2.csv",
+		"/D/presentation/server/app.js",
+		"/D/presentation/webpack.config.js",
+		"/D/presentation/src/app.js",
+		"/D/presentation/.gitignore",
+		"/D/presentation/src/index.js",
+		"/D/presentation/server/index.html",
+		"/D/presentation/src/css/main.scss",
+		"/D/presentation/src/js/home.js",
+		"/D/presentation/src/css/home.scss",
+		"/D/presentation/server/node_modules/nodejs-websocket/samples/chat/index.html",
+		"/D/presentation/server/package.json",
+		"/D/presentation/server/views/index.jade",
+		"/C/Users/Sebi/Desktop/reactjs-code-impact-1-638.jpg",
+		"/D/www/luci/webpack.config.js",
+		"/C/Users/Sebi/Downloads/index.html",
+		"/C/Users/Sebi/.npmrc",
+		"/D/www/luci/src/index.js",
+		"/D/www/luci/gulpfile.js",
+		"/D/www/luci/src/index.html",
+		"/D/www/luci/application/www/index.html",
+		"/D/www/luci/app/index.html",
+		"/D/work/ghost-tiles/examples/index.html",
+		"/D/work/ghost-tiles/css/ghost-cards.css",
+		"/D/work/ghost-tiles/css/style.css",
+		"/D/work/ghost-tiles/docs/arc42-template.html",
+		"/D/work/snake/js/screen.js",
+		"/D/work/snake/.git/config",
+		"/D/www/laura/conn.txt",
+		"/C/Users/Sebi/Downloads/laura (6).sql",
+		"/C/Users/Sebi/Downloads/laura (1).xml",
+		"/D/www/laura/www/repairdb.php",
+		"/C/Users/Sebi/Downloads/laura (7).sql",
+		"/C/Users/Sebi/Downloads/laura (8).sql",
+		"/D/www/laura/www/wp-content/themes/laura/functions.php",
+		"/C/Users/Sebi/Desktop/react/main.js",
+		"/C/Users/Sebi/Desktop/react/index.html",
+		"/D/work/snake/css/normalize.css",
+		"/D/www/luci/cubaj/www/bundle.js",
+		"/D/www/luci/node_modules/cordova-js/package.json",
+		"/D/www/luci/src/js/istoric.js",
+		"/D/www/luci/src/js/calculation-form.js",
+		"/D/www/luci/src/css/main.scss",
+		"/D/www/luci/src/themes/normal.js",
+		"/D/www/luci/src/css/calculation-form.scss",
+		"/D/www/luci/src/css/dialog.scss",
+		"/D/www/luci/src/js/remove-button.js",
+		"/D/www/luci/src/js/dialog.js",
+		"/D/www/luci/src/css/home.scss",
+		"/D/www/luci/src/js/home.js",
+		"/D/www/luci/src/js/despre.js",
+		"/D/www/luci/src/js/calculation-screen.js",
+		"/D/www/luci/src/css/fonts.scss",
+		"/D/www/luci/src/css/footer.scss",
+		"/D/www/luci/src/css/setup.scss",
+		"/D/www/luci/src/js/input.js",
+		"/D/www/luci/app/styles.css",
+		"/D/www/luci/.eslintrc",
+		"/D/www/luci/package.json",
+		"/D/www/luci/.gitignore",
+		"/D/www/luci/index.js",
+		"/D/www/luci/webpack/index.js",
+		"/D/www/laura/www/wp-content/themes/laura/header.php",
+		"/C/Users/Sebi/Downloads/laura (4).sql",
+		"/C/Users/Sebi/Downloads/laura (5).sql",
+		"/D/www/kavon/www/wp-content/themes/kavon/templates/homepage.php",
+		"/D/work/dnd/js/gs-drag-drop.js",
+		"/D/work/dnd/online/js/gs-drag-drop.js",
+		"/D/work/dnd/css/style.css",
+		"/C/Users/Sebi/Downloads/laura.xml",
+		"/C/Users/Sebi/Downloads/laura.json",
+		"/C/Users/Sebi/Downloads/laura (3).sql",
+		"/C/Users/Sebi/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Sebi/Downloads/laura (2).sql",
+		"/C/Users/Sebi/Downloads/laura (1).sql",
+		"/D/www/laura/www/wp-config.php",
+		"/D/www/laura/www/wp-content/themes/laura/category.php",
+		"/C/Users/Sebi/AppData/Local/Temp/Temp1_html5blank-stable (1).zip/html5blank-stable/single.php",
+		"/D/www/laura/www/wp-content/themes/laura/normalize.css",
+		"/D/www/laura/www/wp-content/themes/laura/normalize.min.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"wp-content/themes",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"- ",
+			"_positionsAreDifferent",
+			"console",
+			"_drawGameSquares",
+			"GameCanvas",
+			"_getRandomColor",
+			"{\n	r: 255,\n	g: 112,\n	b:  67\n}",
+			"');\n",
+			");\n",
+			";\n",
+			"ensure_newline_at_eof_on_save",
+			"class",
+			"ecma",
+			"type-selec",
+			"$meta",
+			"venues",
+			"venue",
+			"scss",
+			".post-gallery",
+			"bxslider",
+			"bxslider-post",
+			"youtube",
+			"ul.bxslider li",
+			".4",
+			"currentElement",
+			"currentSlide",
+			"view-results-button",
+			"vote-i",
+			"button",
+			"vote-imbutton",
+			"vote-image-button",
+			"vote-button",
+			"post-gallery",
+			"checkIfVoted",
+			"currentId",
+			"checkIfVoted",
+			"post_id",
+			".vote-button",
+			"vote-button",
+			"vote-button-container",
+			"tile",
+			"cardWid",
+			"tile",
+			"userInfo",
+			"console",
+			"broadcastInitialData",
+			"updateMessagesToAll",
+			"getuserin",
+			"username",
+			"addpost",
+			"getUserInfo",
+			"updateMessagesToAll",
+			"this.username",
+			"username",
+			"this.connection",
+			"broadcastMessages",
+			"');\n",
+			"db",
+			"onServerSuccess",
+			"gettot",
+			"single-entry",
+			"_getTotal",
+			"getlasten",
+			"tofixed",
+			"this.pro",
+			"index",
+			"calcule",
+			"buy-now-link",
+			"#gs-cards-container",
+			"gs-input-container",
+			"id=\"gs-input-container\"",
+			"Tile",
+			"tile",
+			"gethig",
+			"Tiles",
+			"tiles",
+			"Tiles",
+			"tiles",
+			"you ca",
+			"playground",
+			"innerHeight",
+			"innerWidth",
+			"tilesSpacing",
+			".overlay-warper",
+			"foodColided",
+			"generatePlayGround",
+			"=== 0",
+			"head",
+			"noObstacles",
+			"obstack",
+			"cons",
+			"willColide",
+			"red",
+			"hasColided",
+			"draw(",
+			"draw",
+			"draw(",
+			"bonustime",
+			"generateBonus",
+			"foodColided",
+			"apple",
+			"bonus",
+			"console",
+			"setBonus",
+			"bonusTime",
+			"setBonus",
+			"bonusTime",
+			"generateBonus",
+			"bonusTime",
+			"clearbo",
+			"clearBonus",
+			"init",
+			"resetTimer",
+			"false",
+			"timeTimeout",
+			"updateTime",
+			"control",
+			"playpause",
+			"bubblegum",
+			"displayTime",
+			"http://laura.dev/",
+			"laura.dev",
+			"vote-gallery",
+			".bx-wrapper .bx-controls-direction a",
+			"<h1></h1>",
+			"scoreContainer",
+			"180",
+			"view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_drawGridSquares",
+			"GameGrid",
+			"username",
+			"connection",
+			".gs-cards-container",
+			"gs-cards-container",
+			"class=\"gs-input-container\"",
+			"Card",
+			"card",
+			"Cards",
+			"cards",
+			"Cards",
+			"cards",
+			"board",
+			"offsetHeight",
+			"offsetWidth",
+			"tileSpacing",
+			"/",
+			"fashiontrendsparis.com",
+			"http://fashiontrendsparis.com/",
+			"main-voting",
+			"div",
+			"calcule.length",
+			"_getLastEntries",
+			"'",
+			"fashiontrendsparis.com",
+			"#444",
+			"fashiontrendsparis.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/js/app.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3551,
+								3551
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1653.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/work/related_selects/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/canvas/game-grid.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/canvas/game-canvas.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 554.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/js/levels/level.1.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5442,
+								5442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3060.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jewels.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
